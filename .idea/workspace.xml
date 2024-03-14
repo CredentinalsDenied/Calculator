@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f87494-2e1e-477a-9f79-724f95e4c5cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="79f87494-2e1e-477a-9f79-724f95e4c5cd" name="Changes" comment="example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="main.java.Calculator" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="SimpleCalc" />
       <method v="2">
@@ -79,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.main.java.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -93,8 +89,16 @@
       <updated>1710245714449</updated>
       <workItem from="1710245715943" duration="606000" />
       <workItem from="1710418190006" duration="718000" />
-      <workItem from="1710418931060" duration="2429000" />
+      <workItem from="1710418931060" duration="2977000" />
     </task>
+    <task id="LOCAL-00001" summary="example">
+      <created>1710421483791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710421483791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="example" />
+    <option name="LAST_COMMIT_MESSAGE" value="example" />
   </component>
 </project>
